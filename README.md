@@ -1,2 +1,4 @@
 # Ansible Advanced Automation 
-## Homework - Plano, TX Aug 2019 
+### Homework - Plano, TX Aug 2019 
+--- | :---: | ---:
+**This** | is | `us`
